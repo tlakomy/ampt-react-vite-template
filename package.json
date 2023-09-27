@@ -13,8 +13,8 @@
   },
   "main": "api/index.ts",
   "ampt": {
-    "org": "",
-    "app": "react-vite"
+    "app": "ampt-react-vite-template",
+    "org": "tlakomy"
   },
   "files": [
     "!src/**/*"
